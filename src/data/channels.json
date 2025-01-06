@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Channel 1",
+    "url": "https://channel1-stream.com"
+  },
+  {
+    "id": 2,
+    "name": "Channel 2",
+    "url": "https://channel2-stream.com"
+  },
+  {
+    "id": 3,
+    "name": "Channel 3",
+    "url": "https://channel3-stream.com"
+  }
+]
